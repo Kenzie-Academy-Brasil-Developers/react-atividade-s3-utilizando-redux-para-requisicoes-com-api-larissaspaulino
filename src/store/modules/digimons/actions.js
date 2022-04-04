@@ -1,5 +1,4 @@
-import { ADD_DIGIMONS } from "./actionTypes"
-import { DEL_DIGIMONS } from "./actionTypes"
+import { ADD_DIGIMONS, DEL_DIGIMONS } from "./actionTypes"
 
 
 export const addDigimon = (newDigimon) => ({
